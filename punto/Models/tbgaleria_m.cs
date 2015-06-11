@@ -10,7 +10,7 @@ namespace punto.Models
     {
         void ss()
         {
-
+/frrrrrrrrrrrrrrrrrrrrrrrrrrr
         }
     }
     public interface itbgaleria
